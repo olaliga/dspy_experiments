@@ -1,0 +1,101 @@
+body,subject,route_to
+We want to integrate your solution with HR software. Next steps?,Consultation on Product Integration,jerry
+Your competitor offers automatic backups. Do you plan to add it?,Competitor Feature Gap,tom
+Unsure how to enable your new messaging feature.,New Feature Clarification,tom
+Users can't log in; database stuck in read-only. Quick action please.,URGENT: Database Locking Up,jerry
+I had a rude interaction with someone on your team.,Complaint about Team Member,ben
+Please share your contract addendum for legal review.,Legal Department Inquiry,ben
+How do I interpret the funnel analytics numbers?,Feature Explanation: Analytics Module,tom
+What fields are mandatory for the account creation form?,Account Setup Clarification,tom
+What's needed to finish my user profile setup?,Account Setup Question,tom
+Connected tool is not syncing with your platform.,Third-Party Integration Issue,jerry
+Our site shows 'untrusted' warnings to all visitors. Fix ASAP.,URGENT: SSL Certificate Error,jerry
+We'd like to interview your CEO for a news segment.,Media Inquiry,ben
+I'm not receiving any account alerts or notifications.,Email Notification Bug,jerry
+We see logs missing critical info for debugging. Advice?,Questionable Logging Data,jerry
+All calls to /v1 resource are failing just before our demo!,URGENT: API Endpoints Returning 404,jerry
+Can't post or comment in your forum. Need help unlocking it.,Community Forum Issue,tom
+We tested your competitor's solution and want to compare.,Competitor Mention,tom
+Changing our approach. Need a refund. Under your $1000 policy.,Refund Request: $999,tom
+Our site is unresponsive. Could it be your servers?,Server Downtime Issue,jerry
+Some parts of the UI feel confusing. Can we discuss improvements?,User Interface Feedback,tom
+We're hitting throttles after sending 5000 requests daily.,Bulk API Requests Throttling,jerry
+"Our gateway plugin fails for hundreds of transactions, urgent fix required.",URGENT: Payment Gateway Integration Failing,jerry
+Endpoints not returning confirmations. Need dev support.,Integration with Stripe API Issues,jerry
+A $250k deal depends on timely product enhancements.,High-Value Contract & Deadlines,ben
+Our IT demands a full security briefing before we proceed.,Enterprise Onboarding + Security Overview,ben
+Our CFO demands a $1200 refund. It's above your standard limit.,Refund Request: $1200 (Over $1000),ben
+Looking for a product tour explaining main functionalities.,Feature Overview,tom
+"I have no real question, just testing your routing system.",Wrong Route? Just Checking,tom
+We want to highlight your brand in our weekly newsletter.,Request for a Sponsor Link in Newsletter,tom
+We have a deck comparing you to three other solutions. Any input?,Competitive Landscape Presentation,tom
+"Onboarding was mostly good, but a small glitch in the final step.",Feedback on Onboarding & a Minor Bug,jerry
+"We have a press inquiry, found a bug, and see a billing issue. Advice?",Multiple Concerns: Press + Tech Bug + Payment,ben
+We want user data details plus staff training for compliance.,Privacy Concern & Corporate Training,ben
+Is it okay to embed your product in our internal software?,Question on Product License Terms,ben
+"We want to partner. Meanwhile, our dev environment is broken.",Partnership Demos + Tech Support Issue,ben
+We are a large corporation looking into your solution.,Corporate Pricing Questions,ben
+"After hitting 'save', changes vanish upon refresh.",Bug: Data Not Saving,jerry
+How can we co-promote each other's offerings?,Partner Marketing Queries,ben
+"Need to finalize a $120k upgrade, plus UI isn't intuitive for our team.",Multiple Topics: High-Value Plan & UI Confusion,ben
+Production environment hitting 100% CPU. Can't handle traffic.,URGENT: High CPU Usage,jerry
+"Calls to /v2/endpoint are timing out after 30s, need help.",API Timeout Inconsistencies,jerry
+Your homepage might need better navigation options.,Homepage UI Feedback,tom
+Large chunk of user data missing after last system update.,URGENT: Data Loss Detected,jerry
+We need to confirm some facts for our upcoming news article.,Press Coverage: Fact Check,ben
+I need $900 back. The sales rep told me it's easy to process.,Refund Under $1000 - Missed,tom
+Can you help us ensure secure usage of your product?,Security Training Request,ben
+"We want a longer free trial for evaluation, is that possible?",Trial Period Extended?,tom
+I can't seem to initialize your SDK in my Node.js app.,SDK Setup Problems,jerry
+When are you removing legacy reports? We rely on them heavily.,Legacy Feature Sunset Plans,jerry
+Support rep was rude. I'd like a partial refund and apology.,Refund & Apology from Team Member,ben
+OAuth tokens keep getting rejected.,API Authentication Fail,jerry
+Require confirmation of 99.9% uptime for enterprise compliance.,Cloud Hosting SLAs,ben
+We see your competitor has better pricing. Are you open to partnering?,"Partner Possible, Also Competitor Research",tom
+We handle student data. Are you FERPA compliant?,Data Privacy for Education Sector,ben
+Is there a patch for the recent vulnerability discovered?,Security Patch Inquiry,jerry
+Some enterprise clients are upset at new rates. How to handle?,Mass Price Increase & Customer Complaints,ben
+Callback from payment gateway is never triggered. Showstopper.,URGENT: Payment Gateway Callback Fail,jerry
+We need to replicate real data on the staging environment.,Staging Environment Help,jerry
+We've identified a potential security flaw in your platform.,Security Vulnerability Notice,ben
+How do we configure our dashboard to see user sign-up funnels?,User Flow Clarification,tom
+Need more detail on your SDK for advanced usage.,Technical Documentation Clarification,jerry
+I'm extremely dissatisfied with your support manager.,Team Member Complaint Escalation,ben
+Slow interface at times. Need ideas on how to speed it up.,Basic User Complaint,tom
+Slack commands aren't triggering the right events on your side.,Integration with Slack Issues,jerry
+Can we feature your product in our email campaigns?,Marketing Campaign Inquiry,tom
+"We want to feature you, but your code is throwing a 500 error.",Media Inquiry & Code Error,ben
+"Real-time transactions failing, revenue impacted – immediate fix needed.",URGENT: Payment Processor Not Responding,jerry
+"We found suspicious logins, and also I'm overbilled. Need resolution.",Potential Data Breach & Billing Overcharge,ben
+We’re a small startup looking for minimal co-marketing ventures.,Idea for Light Partnership,ben
+We keep hitting the rate limit on batch updates.,API Rate Limiting Concern,jerry
+Need ideas for new user growth. Already have a stable product setup.,Trying to Plan a Marketing Campaign,tom
+We got a cheaper quote from another vendor. Can you match it?,Competitor Price Match,tom
+Our existing $75k plan needs adjustments to extend further.,High-Value Contract Renegotiation,ben
+How can I see monthly usage stats on the billing tab?,Basic Feature Explanation: Billing Tab,tom
+Please clarify data handling while explaining the analytics feed.,Mixed: Data Privacy & Feature Explanation,ben
+We’re leaving your competitor. What's your migration process?,Competitor Switch Inquiry,tom
+My company needs an enterprise-level solution. Can we discuss?,Enterprise Plan Inquiry,ben
+Are you active on LinkedIn or Twitter for announcements?,Social Media Query,tom
+We have API errors and a billing discrepancy in our invoice.,Technical and Billing Mixed Queries,ben
+How does your system stack against competing solutions?,Feature Comparison,tom
+We noticed your competitor has a new AI module. Any response?,Researching Competitor Tools,tom
+"We plan to pay $50k, but also need help onboarding 40 users.",Dual Inquiry: $50k Plan + Onboarding,ben
+How do I renew my annual plan and remove extra services?,Billing Inquiry - Renewals,ben
+We have a global team that needs product training sessions.,Training Request for International Users,tom
+My company's legal title changed. Need updated invoice.,Legal Name Correction on Invoice,ben
+We found suspicious activities on our enterprise account.,Security Advisory,ben
+Media is reaching out. Do you have a spokesperson?,Press Coverage Probably Next Week,ben
+My subscription didn't meet my needs. Requesting refund.,Refund Inquiry - $700,tom
+It seems I'm being charged less than expected. Could that be correct?,Undercharging? My Bill is Too Low,ben
+I'd like to learn more about your pricing structure.,Pricing Info Request,ben
+When do you plan to release your next major version?,Developer Roadmap Inquiry,jerry
+Need immediate help; data import halts the system for all users.,URGENT: Crash on Bulk Data Import,jerry
+How does your product compare to others in the market?,General Product Inquiry,tom
+Is the iOS version updated simultaneously with Android?,Mobile App Deployment Clarification,jerry
+Which hashtags do you prefer us to use when mentioning you?,Social Media Hashtag Use,tom
+I'm not receiving the weekly updates. Am I signed up?,Newsletter Subscription Issue,tom
+I have ideas to make your layout more user-friendly.,User Interface Improvement Suggestions,tom
+"We're evaluating your product for 500 seats, requesting a feature timeline.",Multiple Topics: Enterprise & Tech Roadmap,ben
+Can I enable new experimental features in my dev environment?,Feature Toggle Info,jerry
+I want a refund for my $300 plan. Please advise.,Refund Request Under $1000,tom

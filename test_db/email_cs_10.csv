@@ -1,0 +1,101 @@
+body,subject,route_to
+Session times out too quickly. Need a longer session setting.,Auto Logout Issue,tom
+Is the reset link one-time use? I'm worried about phishing.,Secure Password Reset Link,nuno
+I want to change from basic to premium pricing tier.,Upgrade to Premium Plan,ben
+My credit card transaction keeps failing. Need help.,Payment Declined,ben
+Notifications arrive 10 minutes late on my phone.,Push Alert Delay,jerry
+Settings are complicated. A simpler layout would help newbies.,Simplify Settings Menu,will
+Features differ between mobile and web. Please unify the experience.,Mobile Desktop Parity,will
+Need screen-reader optimization for visually impaired users.,Accessibility Feature Request,will
+Looking for websockets? How to get events live?,Real-Time Data Polling,sarah
+Site sometimes loads over HTTP. Potential security flaw?,HTTP vs HTTPS,nuno
+Having to sign in each time I reopen the app.,App Keeps Logging Me Out,jerry
+We had a training session last week. Where to send feedback?,Post-Training Feedback,julia
+We want to set complex roles and sub-roles across departments.,Advanced User Permissions for Enterprise,harrison
+"After clearing cookies, site fails to load properly.",Resetting Cookies Caused Issues,tom
+Need an itemized invoice for company reimbursement.,Invoice Format Request,ben
+Want to use PayPal instead of credit card. Possible?,Switching Payment Method,ben
+Received a suspicious email claiming to be your support. Please advise.,Suspicious Email from Your Domain,nuno
+Our security team needs a questionnaire completed for compliance.,Vendor Risk Assessment,harrison
+Just signed up. Need guidance for the initial steps.,Basic Setup Guide,julia
+We’d like an in-person training session for our team. Possible dates?,Hands-On Workshop,julia
+Would be great to have an instant deploy feature for releases.,One-Click Deploy Feature,will
+Updated site content not showing to new visitors.,Cache Misconfiguration,tom
+"The moment I open the app, it closes unexpectedly.",App Crashes on Start,jerry
+My card on file is about to expire. Need to update details.,Credit Card Expiration,ben
+Need a tutorial workshop for our new staff on your platform.,Training Session Request,julia
+We combined departments. Need to unify user groups in the system.,Merge Two Teams,miles
+I never received my invoice for the last payment. Please resend.,Payment Receipt Missing,ben
+Can you share any step-by-step video tutorials for novices?,Tutorial Videos,julia
+Interested in becoming a reseller of your product.,Channel Partner Request,harrison
+Clicking 'My Dashboard' returns 404. Possibly a broken link.,Error 404 on My Dashboard,tom
+"No captcha is visible, but site asks me to fill it out.",Captchas Missing,tom
+I was billed twice last month. Would like a refund.,Refund for Incorrect Charge,ben
+Some new roles are not inheriting their parent group's permissions.,Inherited Permissions Issue,miles
+We want an overview of all roles and what they can do.,Role Permissions Audit,miles
+Haven't gotten this month's invoice. Can you resend?,Invoice Not Received,ben
+We want to embed your platform into ours via API. Need guidance.,Custom Integration Ideas,sarah
+Where can I find your docs with screenshots for easy reference?,Knowledge Base Access,julia
+Docs mention upcoming deprecation. Need alternative.,API Endpoint Endpoint Deprecated?,sarah
+Can we rebrand your platform under our name?,White-Labeling Question,harrison
+Found a security hole. Who do I contact?,How to Report Vulnerabilities?,nuno
+Would love an offline capability in your product.,Feature Request: Offline Mode,will
+I want to temporarily freeze my login. Please help.,Account Security Lockdown,nuno
+Does your system store fingerprints locally or on your servers?,Biometric Security Inquiry,nuno
+We do monthly large data loads. Any automated process?,Recurring Bulk Uploads,ankush
+I lost the phone with my authenticator app. Need alternative 2FA method.,MFA Device Lost,nuno
+Getting a security warning on Chrome. Check SSL config.,SSL Certificate Error,tom
+Employee got promoted. Need to update their role privileges.,Change User Permissions,miles
+Need instructions to add new members and set roles.,Team Administration Setup,miles
+Do you have a concise PDF guide for new employees?,Basic User Manual Request,julia
+Which endpoint handles bulk data submission?,Developer Docs Clarification,sarah
+Everything is really slow after logging in.,Sluggish Performance on iOS,jerry
+Can we get an auto-update feature for the desktop client?,Automatic Updates Request,will
+We want to remove old user accounts that are no longer active.,Delete Inactive Users,miles
+The 'Contact Us' link leads to a dead page.,Broken Link in Footer,tom
+Looking for advanced tutorials for dev integration. Where to find them?,Learning Path for Developers,julia
+"We have data in XML. Does your system read it, or do we need JSON?",XML vs JSON Data Upload,ankush
+"I installed the beta version, but it's full of bugs.",Android Beta Feedback,jerry
+Keep getting error lines on CSV import. Need help debugging.,Legacy CSV Imports Failing,ankush
+The app won't let me register a new account on mobile.,Bug on Account Creation,jerry
+Is there an offline version of your training resources?,Online Tutorials Offline?,julia
+Need sample data to test integration. Any endpoint?,Test Data Seeding,sarah
+We want to talk directly with a trainer to plan a learning session.,Trainer Contact Request,julia
+We have .xlsx files. Do you support direct import?,File Format Compatibility Check,ankush
+The app won't install on my older tablet. Please advise.,Mobile Compatibility Issue,jerry
+Temporary staff need partial access. How do I restrict it?,Limit Access for Contractors,miles
+We have offices worldwide. Need solutions for various data centers.,Multi-Region Deployment,harrison
+Can't access full features in Safari. Please advise.,Browser Compatibility Problem,tom
+Need a feature to let multiple managers oversee user permissions.,Sharing Team Access,miles
+My refund didn't process. What's the status?,Failed Refund Attempt,ben
+Do your webhooks automatically retry on failure?,Webhook Retries,sarah
+I'd like to sign up for early access to new features.,Beta Tester Application,will
+"I use an older browser, site doesn't load at all.",Website Not Responding on IE,tom
+Is it possible to create subgroups under a main group?,User Group Hierarchy,miles
+"I log in, then see a perpetual spinner. Won't load content.",Stuck on Spinning Loader (Web),tom
+"After installing the update, some features are missing.",Latest Update Issues,jerry
+Receiving 500 for a simple GET request. Might be a bug?,API 500 Error,sarah
+We need to migrate records from an older system. Assistance needed.,Bulk Data Transfer Help,ankush
+"Import wizard says file is corrupted, but it opens fine locally.",Corrupted File Errors,ankush
+I suspect someone accessed my account without permission.,Security Concern: Possible Breach,nuno
+App doesn't respond to taps occasionally.,Touch Screen Freezes,jerry
+We have 50 employees needing orientation at once. Options?,Large Group Training,julia
+Can you introduce a dark theme for the desktop version?,Dark Mode Request,will
+Do you offer certificates for finishing your training modules?,Certificate of Completion,julia
+We need guaranteed uptime. What's your SLA?,Service-Level Agreement FAQ,harrison
+All product images show as broken links on the homepage.,Broken Images,tom
+"System isn't detecting existing entries, creating duplicates.",Duplicated Records on Import,ankush
+Managers need advanced training on user permissions.,Admin Onboarding Queries,julia
+Got an email about a new sign-in from overseas. Not me.,Suspicious Login Alerts,nuno
+We messed up a migration. Is there a quick way to revert?,Rollback Feature,ankush
+We have millions of rows to move. Best approach?,Large Volume Import Strategy,ankush
+"Tested in Firefox and Chrome, same freeze on checkout.","Two Different Browsers, Same Problem",tom
+The settings are hidden. Could you make them more accessible?,UI Improvement Suggestion,will
+My webhook doesn't seem to receive any event calls.,Webhook Troubleshooting,sarah
+Need to create a role that can view data but not edit it.,View Only Permission Setup,miles
+Which file formats do you support for data import?,Import/Export Configuration,ankush
+Allow us to rearrange dashboard widgets. Great for efficiency.,Customization Options,will
+We found some vulnerabilities in our official pentest. Need your team's input.,Penetration Testing Results,nuno
+Need to assign more than one super admin. Is this possible?,Multiple Admins,miles
+Biometric login fails. Password works though.,Fingerprint Login Broken,jerry
+Our regulatory body demands advanced encryption. How can we comply?,Encryption Compliance,harrison

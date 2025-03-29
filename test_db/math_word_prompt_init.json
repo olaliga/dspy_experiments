@@ -1,0 +1,56 @@
+{
+  "name": null,
+  "input_variables": [
+    "problem"
+  ],
+  "optional_variables": [],
+  "input_types": {},
+  "output_parser": null,
+  "partial_variables": {},
+  "metadata": {
+    "lc_hub_owner": "langchain-ai",
+    "lc_hub_repo": "math_word_problems",
+    "lc_hub_commit_hash": "47c8c36d5ee00f2bcb32b28344a7d82441655e441c63b3c6ff9ddca6faa183ce"
+  },
+  "tags": null,
+  "messages": [
+    {
+      "type": "SystemMessagePromptTemplate",
+      "prompt": {
+        "input_variables": [],
+        "template": "You are a helpful assistant."
+      }
+    },
+    {
+      "type": "HumanMessagePromptTemplate",
+      "prompt": {
+        "input_variables": [
+          "problem"
+        ],
+        "template": "{problem}"
+      }
+    }
+  ],
+  "validate_template": false,
+  "schema_": {
+    "title": "submit_answer",
+    "description": "Submit the answer to the user's question.",
+    "type": "object",
+    "properties": {
+      "proof": {
+        "type": "string",
+        "description": "Show your work. It's OK to backtrack if you have trouble."
+      },
+      "answer": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "proof",
+      "answer"
+    ],
+    "strict": true,
+    "additionalProperties": false
+  },
+  "structured_output_kwargs": {}
+}

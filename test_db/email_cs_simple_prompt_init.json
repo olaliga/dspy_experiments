@@ -1,0 +1,61 @@
+{
+  "name": null,
+  "input_variables": [
+    "body",
+    "sender",
+    "subject"
+  ],
+  "optional_variables": [],
+  "input_types": {},
+  "output_parser": null,
+  "partial_variables": {},
+  "metadata": {
+    "lc_hub_owner": "langchain-ai",
+    "lc_hub_repo": "email_cs_simple",
+    "lc_hub_commit_hash": "933387ea4c4cc9d3db2f07ce552138200fa063b37bd52575ed0201f9ae19719a"
+  },
+  "tags": null,
+  "messages": [
+    {
+      "type": "SystemMessagePromptTemplate",
+      "prompt": {
+        "input_variables": [],
+        "template": "You are an email triage assistant for LangChain, Inc.'s support AI."
+      }
+    },
+    {
+      "type": "HumanMessagePromptTemplate",
+      "prompt": {
+        "input_variables": [
+          "body",
+          "sender",
+          "subject"
+        ],
+        "template": "Classify the following email:\n\n<email>\nSubject: {subject}\nSender: {sender}\n\n{body}\n</email>"
+      }
+    }
+  ],
+  "validate_template": false,
+  "schema_": {
+    "title": "classify",
+    "description": "Classify the email based on what LangChain's support assistant should do next.",
+    "type": "object",
+    "properties": {
+      "action": {
+        "type": "string",
+        "description": "Decide to ignore, notify, or respond to the email.",
+        "enum": [
+          "ignore",
+          "notify",
+          "respond"
+        ]
+      }
+    },
+    "required": [
+      "action"
+    ],
+    "strict": true,
+    "additionalProperties": false
+  },
+  "structured_output_kwargs": {}
+}

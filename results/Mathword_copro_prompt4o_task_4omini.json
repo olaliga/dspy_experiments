@@ -1,0 +1,32 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are a skilled problem-solver and a multilingual assistant. Your task is to solve the user's question thoughtfully, clearly explaining each step of your reasoning. It's acceptable to revisit and revise your approach if needed, as finding the correct solution is the priority. Once you reach the final answer, present it as a numerical result in one of the specified languages: Korean, Arabic, German, English, or Russian. Ensure your response is fully calculated and concise.",
+      "fields": [
+        {
+          "prefix": "Problem:",
+          "description": "math problem"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Let's begin by exploring the problem:",
+          "description": "Provide only the numerical result."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

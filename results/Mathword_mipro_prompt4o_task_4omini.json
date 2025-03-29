@@ -1,0 +1,73 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "problem": "An astronaut needs to pack oxygen tanks for a space walk. If each tank contains 5 hours of oxygen, and the space walk will last 15 hours, how many oxygen tanks does the astronaut need?",
+        "reasoning": "To determine how many oxygen tanks the astronaut needs, we can divide the total duration of the space walk by the amount of oxygen each tank provides. Each tank provides 5 hours of oxygen, and the space walk will last 15 hours. \n\nSo, we calculate:\nNumber of tanks needed = Total hours of space walk \/ Hours of oxygen per tank\nNumber of tanks needed = 15 hours \/ 5 hours per tank = 3 tanks.\n\nThus, the astronaut needs 3 oxygen tanks for the space walk.",
+        "answer": "\u062b\u0644\u0627\u062b\u0629"
+      },
+      {
+        "augmented": true,
+        "problem": "Sarah's music playlist has 15 pop songs and 9 rock songs. How many songs are in her playlist in total?",
+        "reasoning": "To find the total number of songs in Sarah's playlist, we need to add the number of pop songs to the number of rock songs. Sarah has 15 pop songs and 9 rock songs. \n\nTotal songs = Number of pop songs + Number of rock songs  \nTotal songs = 15 + 9 = 24",
+        "answer": "twenty-four"
+      },
+      {
+        "augmented": true,
+        "problem": "A music band has 5 guitar picks and buys 7 more picks from the store. How many guitar picks does the band have in total?",
+        "reasoning": "To find the total number of guitar picks the band has, we need to add the number of picks they initially had to the number of picks they bought. The band started with 5 guitar picks and then bought 7 more. \n\nSo, the calculation is:\n5 (initial picks) + 7 (bought picks) = 12 (total picks).",
+        "answer": "twelve"
+      },
+      {
+        "augmented": true,
+        "problem": "A music band has 5 guitars and 3 drums. How many instruments do they have in total?",
+        "reasoning": "To find the total number of instruments the music band has, we simply add the number of guitars to the number of drums. The band has 5 guitars and 3 drums. \n\nTotal instruments = Number of guitars + Number of drums  \nTotal instruments = 5 + 3 = 8",
+        "answer": "eight"
+      },
+      {
+        "problem": "A symphony orchestra has 72 musicians playing at maximum volume of 85 decibels. The conductor needs to reduce the volume to 75 decibels for a quieter passage. Given that decibel reduction follows a logarithmic scale where reducing the number of musicians by 10% reduces the volume by approximately 2 decibels, what is the minimum number of musicians needed for the quieter passage? Round to the nearest whole number.",
+        "answer": "forty-three"
+      },
+      {
+        "problem": "A soccer team won 15 games and lost 7 games this season. How many games did they play in total?",
+        "answer": "\uc774\uc2ed\uc774"
+      },
+      {
+        "problem": "In a basketball tournament, Team A has a shooting accuracy of 42% from the three-point line and 65% from the free-throw line. In their last game, they attempted 35 three-pointers and scored 15 of them. If they want to maintain the same total points scored but only through free throws (which are worth 1 point each, while three-pointers are worth 3 points), and assuming they maintain their 65% free-throw accuracy, how many free throws would they need to attempt? Round to the nearest whole number.",
+        "answer": "\uc721\uc2ed\uad6c"
+      },
+      {
+        "problem": "A wildlife sanctuary tracks migratory butterflies. Last spring, they counted 72 monarch butterflies. During their journey south, 1\/4 of the butterflies stopped at the sanctuary to rest. If each butterfly needs 3 milligrams of nectar per day, how many milligrams of nectar did the sanctuary need to provide for the resting butterflies each day?",
+        "answer": "\u043f\u044f\u0442\u044c\u0434\u0435\u0441\u044f\u0442 \u0447\u0435\u0442\u044b\u0440\u0435"
+      }
+    ],
+    "signature": {
+      "instructions": "You are an intelligent assistant specializing in solving mathematical word problems. Given a math problem, perform detailed step-by-step reasoning to illustrate your thought process towards reaching the solution. Then, provide the final numerical answer in one of the specified languages: Korean, Arabic, German, English, or Russian. Ensure the reasoning is clear and logical, allowing users to understand how the solution is derived. Show all calculations, and feel free to rethink any step if necessary.",
+      "fields": [
+        {
+          "prefix": "Problem:",
+          "description": "math problem"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Provide only the numerical result."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

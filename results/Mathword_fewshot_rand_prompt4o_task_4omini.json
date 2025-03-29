@@ -1,0 +1,79 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "problem": "A wildlife researcher is studying a population of endangered snow leopards across two mountain ranges. In the first range, there are 45 leopards, with a male to female ratio of 2:3. The second range has 30% more leopards than the first range, but with a male to female ratio of 3:2. What is the total number of male snow leopards across both mountain ranges? Round to the nearest whole number.",
+        "reasoning": "In the first mountain range, there are 45 leopards with a male to female ratio of 2:3. This means for every 5 leopards, 2 are male and 3 are female. \n\nTo find the number of males in the first range:\n- Total leopards = 45\n- Male fraction = 2\/5\n- Number of males = 45 * (2\/5) = 18\n\nIn the second mountain range, there are 30% more leopards than the first range:\n- Number of leopards in the second range = 45 + (30% of 45) = 45 + 13.5 = 58.5, which we round to 59 leopards.\n\nThe male to female ratio in the second range is 3:2. This means for every 5 leopards, 3 are male and 2 are female.\n- Male fraction = 3\/5\n- Number of males in the second range = 59 * (3\/5) = 35.4, which we round to 35 males.\n\nNow, we add the number of males from both ranges:\n- Total males = 18 (first range) + 35 (second range) = 53.\n\nThus, the total number of male snow leopards across both mountain ranges is 53.",
+        "answer": "53"
+      },
+      {
+        "augmented": true,
+        "problem": "A basketball team's average points per game dropped from 96 to 84 after their star player was injured. The coach wants to maintain the same total team points by improving the efficiency of the remaining players. If there are 5 active players on the court, and each player currently scores an equal share of points, by what percentage must each remaining player increase their individual scoring to compensate for the star player's absence? Round to the nearest whole number.",
+        "reasoning": "The team originally scored an average of 96 points per game with 5 players, which means the total points scored by the team was 96 points. After the star player was injured, the average dropped to 84 points per game. The total points scored with the remaining players is now 84 points. \n\nTo find out how much each remaining player needs to increase their scoring, we first calculate the total points that need to be maintained, which is still 96 points. \n\nCurrently, with 4 players (since one player is injured), they are scoring 84 points. To find out how many points each of the 4 players needs to score to reach 96 points, we divide 96 by 4, which gives us 24 points per player.\n\nCurrently, each of the 4 players is scoring 84 \/ 4 = 21 points. \n\nNow, we need to find the percentage increase required for each player to go from 21 points to 24 points. The increase in points is 24 - 21 = 3 points.\n\nThe percentage increase is calculated as:\n\\[\n\\text{Percentage Increase} = \\left( \\frac{\\text{Increase}}{\\text{Original}} \\right) \\times 100 = \\left( \\frac{3}{21} \\right) \\times 100 \\approx 14.29\\%\n\\]\n\nRounding to the nearest whole number gives us 14%.",
+        "answer": "14"
+      },
+      {
+        "augmented": true,
+        "problem": "A school band has 15 flute players and 7 trumpet players. How many wind instrument players are there in total?",
+        "reasoning": "To find the total number of wind instrument players in the school band, we need to add the number of flute players to the number of trumpet players. The band has 15 flute players and 7 trumpet players. \n\nTotal wind instrument players = Number of flute players + Number of trumpet players\nTotal wind instrument players = 15 + 7 = 22",
+        "answer": "twenty-two"
+      },
+      {
+        "augmented": true,
+        "problem": "A music band has 5 guitar picks and buys 7 more picks from the store. How many guitar picks does the band have in total?",
+        "reasoning": "To find the total number of guitar picks the band has, we need to add the number of picks they initially had to the number of picks they bought. The band started with 5 guitar picks and bought 7 more. \n\nSo, the calculation is:\n5 (initial picks) + 7 (bought picks) = 12 (total picks).",
+        "answer": "twelve"
+      },
+      {
+        "augmented": true,
+        "problem": "A chef is preparing lasagna for a family reunion. The recipe calls for 2\u00be pounds of mozzarella cheese per lasagna pan. If the chef needs to make 5 pans of lasagna and cheese costs $8 per pound, how many dollars will the chef spend on mozzarella cheese?",
+        "reasoning": "To find out how much the chef will spend on mozzarella cheese, we first need to calculate the total amount of cheese required for 5 pans of lasagna. The recipe calls for 2\u00be pounds of cheese per pan. \n\n1. Convert 2\u00be pounds to an improper fraction: \n   2\u00be = 2 + \u00be = 2 + 0.75 = 2.75 pounds.\n\n2. Multiply the amount of cheese per pan by the number of pans:\n   Total cheese = 2.75 pounds\/pan * 5 pans = 13.75 pounds.\n\n3. Now, we need to calculate the cost of 13.75 pounds of cheese at $8 per pound:\n   Total cost = 13.75 pounds * $8\/pound = $110.\n\nThus, the chef will spend $110 on mozzarella cheese.",
+        "answer": "einhundertzehn"
+      },
+      {
+        "augmented": true,
+        "problem": "A restaurant chef is preparing soup in a large pot. The recipe calls for 2\u00be cups of diced carrots per batch, and she needs to make 8 batches for the day. If each cup of diced carrots costs $1.50, how much money will the chef spend on carrots in total?",
+        "reasoning": "To find out how much the chef will spend on carrots, we first need to calculate the total amount of diced carrots needed for 8 batches. The recipe requires 2\u00be cups of diced carrots per batch. \n\nFirst, we convert 2\u00be cups to an improper fraction:\n2\u00be = 2 + \u00be = 2 + 0.75 = 2.75 cups.\n\nNow, we multiply the amount of carrots per batch by the number of batches:\nTotal cups of carrots = 2.75 cups\/batch * 8 batches = 22 cups.\n\nNext, we calculate the total cost of the carrots. Each cup costs $1.50:\nTotal cost = 22 cups * $1.50\/cup = $33.00.\n\nThus, the chef will spend a total of $33.00 on carrots.",
+        "answer": "dreiunddrei\u00dfig"
+      },
+      {
+        "augmented": true,
+        "problem": "Sarah's music playlist has 15 pop songs and 9 rock songs. How many songs are in her playlist in total?",
+        "reasoning": "To find the total number of songs in Sarah's playlist, we need to add the number of pop songs to the number of rock songs. Sarah has 15 pop songs and 9 rock songs. \n\nTotal songs = Number of pop songs + Number of rock songs\nTotal songs = 15 + 9 = 24",
+        "answer": "twenty-four"
+      },
+      {
+        "problem": "A high school music band is organizing a concert fundraiser. They sold tickets for $8 each and collected $480 in total. If 1\/4 of the ticket revenue will be spent on new sheet music, how much money will be available for new sheet music?",
+        "answer": "one hundred and twenty"
+      }
+    ],
+    "signature": {
+      "instructions": "You are a helpful assistant. Submit the answer to the user's question. \nShow your work. It's OK to backtrack if you have trouble.\nAnd the numerical result should be in one of the following languages: \n - Korean\n - Arabic\n - German\n - English\n - Russian",
+      "fields": [
+        {
+          "prefix": "Problem:",
+          "description": "math problem"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Provide only the numerical result."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

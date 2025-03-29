@@ -1,0 +1,281 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "email_body": "Dear respected sir\/madam,\n\nI am writing this email becoz of very big problem. From last 2 hours i am trying to submit my college assignment on the portal but website is showing error code 500. This is very critical situation becoz deadline is tonight 12AM!!!\n\nI already try many things:\n- refresh page 20 times\n- clear cache and cookie\n- try different browsers\n- restart laptop 2 times\n\nBut nothing working!!! My friends also facing same issue. We are very tensed becoz marks will be cut if assignment not submitted on time.\n\nPlz plz help urgent. This is very important assignment for our semester grade. Website must fix immediately otherwise all students will fail!!!\n\nWaiting for quick response.\n\nThank you and regards,\nRajesh Kumar\nBTech Computer Science\nDelhi University\nStudent ID: DU2023CS456",
+        "email_sender": "rajesh.kumar2023@delhi-uni.edu",
+        "email_subject": "URGENT!!! Website is not working since 2 hours",
+        "reasoning": "The email from Rajesh Kumar indicates a critical issue with the college assignment submission portal, which is affecting multiple students and has a looming deadline. The urgency of the situation, combined with the detailed troubleshooting steps already taken by the sender, suggests that this is a significant technical problem that needs immediate attention. It is important to respond to the email to acknowledge the issue and provide assistance or escalate it to the appropriate technical support team.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi Team,\n\nI hope this email finds you well. I wanted to bring to your attention a non-urgent system issue I've noticed in our remote work portal.\n\nIssue Details:\n- The calendar sync feature is experiencing a 15-20 minute delay\n- This affects team members across all time zones (PT, ET, and GMT+1)\n- The issue started approximately 48 hours ago\n- While disruptive, it's not blocking any critical work functions\n\nCurrent Workaround:\nTeam members can manually refresh their calendars to see the most up-to-date schedule. I've already communicated this temporary solution to affected team members.\n\nImpact Level:\nLow - All meetings are still being recorded and displayed correctly, just with a delay.\n\nRequested Action:\nPlease investigate this issue during regular maintenance hours. No immediate action required.\n\nAdditional Context:\n- Affects both desktop and mobile versions of the portal\n- All other portal functions are working as expected\n- Issue persists across different browsers\n\nFor reference, my local time is 10:30 AM PT \/ 1:30 PM ET \/ 6:30 PM GMT.\n\nThank you for your attention to this matter. Please let me know if you need any additional information to investigate this issue.\n\nBest regards,\nSarah Chen\nRemote Work Coordinator\nLangChain, Inc.\nAvailable: Monday-Friday, 9 AM-5 PM PT",
+        "email_sender": "sarah.chen@langchain.com",
+        "email_subject": "[Non-Urgent] System Issue: Calendar Sync Delay in Remote Work Portal",
+        "reasoning": "The email reports a non-urgent issue with the calendar sync feature in the remote work portal, which is causing a delay but does not block critical work functions. The sender has provided a workaround and requested investigation during regular maintenance hours, indicating that immediate action is not required. This suggests that the issue should be noted for future attention rather than requiring an immediate response.",
+        "action": "notify"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear LangChain Team,\n\nI hope this email finds you well. I'm writing to inform you of a critical system outage affecting our remote work infrastructure.\n\n\ud83d\udea8 INCIDENT DETAILS:\n- Our primary VPN service is currently experiencing a complete outage\n- Issue started at 14:30 UTC (9:30 AM ET \/ 6:30 AM PT)\n- All remote workers may be affected\n\nIMMEDIATE IMPACT:\n- Unable to access internal company resources\n- Disrupted access to development environments\n- Limited access to secure databases\n\nWORKAROUND INSTRUCTIONS:\n1. If you have urgent deliverables, please switch to our backup VPN service\n2. Instructions for backup VPN setup: http:\/\/internal.langchain.com\/backup-vpn\n3. Save all work locally until systems are restored\n\nOur IT team has been notified and is actively working on resolving this issue. We expect resolution within the next 2-3 hours.\n\nNEXT UPDATES:\n- Next status update will be provided at 16:30 UTC (11:30 AM ET \/ 8:30 AM PT)\n- Monitor the #system-status Slack channel for real-time updates\n\nIf you experience any critical blocking issues that prevent you from performing your work, please:\n1. Contact your direct supervisor\n2. Report the specific impact in our incident tracking system\n3. Join the emergency bridge call if needed: meet.langchain.com\/emergency\n\nFor urgent assistance:\nIT Emergency Response: +1 (555) 123-4567\nSlack: @it-emergency\n\nWe apologize for any disruption this may cause to your work. We appreciate your patience as we work to resolve this issue.\n\nBest regards,\nSarah Chen\nRemote Work Coordinator\nLangChain, Inc.\n\nTime zones reference:\nUTC (Universal Time)\nET (Eastern Time): UTC-4\nPT (Pacific Time): UTC-7",
+        "email_sender": "remote.coordination@langchain.com",
+        "email_subject": "[URGENT] Critical System Outage - Remote Work VPN Service Down",
+        "reasoning": "The email reports a critical system outage affecting the remote work infrastructure, specifically the VPN service, which is essential for accessing internal resources. The sender has provided detailed information about the incident, including immediate impacts, workaround instructions, and contact information for urgent assistance. Given the urgency and potential impact on all remote workers, it is important to respond to this email to acknowledge receipt and ensure that the necessary actions are being taken to address the situation.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey there GAME-CHANGER! \ud83c\udf1f\n\nI couldn't sleep tonight because I am BURSTING with excitement to share something ABSOLUTELY GROUNDBREAKING with you! \ud83d\ude80\u2728\n\nAfter 72 sleepless hours of coding and 17 cups of coffee, I've cracked the code! Our startup, InfinityCoin.ai, is disrupting the ENTIRE cryptocurrency space with our revolutionary AI-powered blockchain technology that will 100x your investment IN JUST 30 DAYS! \n\n\ud83d\udd25 EARLY BIRD SPECIAL OFFER - ONLY FOR THE NEXT 24 HOURS! \ud83d\udd25\n- 500% bonus tokens\n- Exclusive access to our super-secret NFT collection\n- Guaranteed spot in our elite \"Crypto Visionaries\" Telegram group\n\nWhy am I reaching out to YOU specifically? Because your email looked like it belonged to a forward-thinking innovator who understands the potential of Web3 and the metaverse! \n\nDon't let this opportunity slip away! Our pre-sale is starting in just 48 hours, and we're already oversubscribed by 1000%! But for you, I'm holding a special allocation.\n\nJust send 1 ETH to this totally legitimate wallet address: 0xf45...8392 and watch your investment grow exponentially! \n\nTO THE MOON! \ud83d\ude80\ud83c\udf15\n\nRemember: This is not financial advice (but you'd be CRAZY to miss out!)\n\nDisrupting the future,\nChad McVisionaryFounder\nCEO & Chief Blockchain Architect\nInfinityCoin.ai - \"Revolutionizing Everything\u2122\"\n\nP.S. Did I mention we're also integrating quantum computing? HUGE ANNOUNCEMENT COMING SOON! \ud83e\udd2f\n\n---\nTo unsubscribe, good luck finding the button that doesn't exist \ud83d\ude09\nThis totally legitimate email was sent from my Tesla while brainstorming in the metaverse",
+        "email_sender": "visionary.founder@techdreams.io",
+        "email_subject": "\ud83d\ude80 REVOLUTIONARY AI-POWERED BLOCKCHAIN OPPORTUNITY - DON'T MISS OUT!!!",
+        "reasoning": "The email appears to be a promotional message for a cryptocurrency investment opportunity that is characterized by high-pressure tactics, unrealistic promises, and a lack of credible information. It contains elements typical of a scam, such as urging immediate action, offering extraordinary returns, and requesting a cryptocurrency transfer to a wallet address. Given these red flags, it is important to treat this email with caution.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey team! \ud83d\udc4b\n\nQuick heads up - we've got a bit of a time crunch situation here! \u23f0\n\nI've just finished putting together some *fire* visuals for our TikTok Live session happening at 3PM EST today (yes, TODAY! \ud83d\ude05), but I need someone to give them a quick review before we go live. These assets include:\n- Main thumbnail\n- 3 transition screens\n- End card with CTA\n\nCan someone from the creative team jump on this ASAP? Like, within the next hour would be amazinggg! \ud83d\ude4f\n\nOur engagement rates have been through the roof lately \ud83d\udcc8, and I really want to keep that momentum going with this live session. Plus, our special guest influencer is already scheduled and ready to go!\n\nDrop everything and hit me back when you can take a look? Pretty please with a trending hashtag on top? \n\nWaiting by my phone! \ud83d\udcf1\u2728\n\nBest vibes,\nSarah\n\nP.S. If you're wondering why this is last minute - blame my oat milk latte that spilled all over my first draft this morning! \ud83e\udd26\u200d\u2640\ufe0f",
+        "email_sender": "sarah.social@langchain.com",
+        "email_subject": "URGENT: Need Social Assets Review ASAP for Today's TikTok Live! \ud83d\udd25",
+        "reasoning": "The email from Sarah indicates an urgent request for a review of social media assets needed for a TikTok Live session happening within the next hour. Given the time-sensitive nature of the request and the importance of maintaining engagement rates, it is crucial to respond promptly to ensure the assets are reviewed in time for the live session.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear IT Support Team,\n\nI hope this email finds you well. I am writing to report some concerning issues regarding my work account access and potential security concerns.\n\nThis morning at approximately 9:15 AM EST, I attempted to log into my work account but received multiple \"Invalid Password\" messages, despite being certain I was entering my credentials correctly. After the third attempt, I was locked out of the system entirely.\n\nAdditionally, I noticed some suspicious activity in my account yesterday:\n1. There were login attempts from an unrecognized IP address (as shown in the security notification email)\n2. My account recovery email appears to have been changed, though I did not make this modification\n\nAs a precautionary measure, I have already:\n- Documented all the unusual activities I observed\n- Attempted to access my account from different browsers to rule out browser-specific issues\n- Double-checked that my computer's security software is up to date\n\nCould you please:\n1. Help me regain access to my account\n2. Investigate the suspicious activities\n3. Implement any additional security measures as deemed necessary\n\nI understand the importance of information security and would greatly appreciate your prompt assistance in resolving these issues.\n\nThank you very much for your time and attention to this matter.\n\nBest regards,\nJames Wilson\nJunior Software Development Intern\nExtension: 4521\nEmployee ID: INT-2023-JW",
+        "email_sender": "james.wilson.intern@langchain.com",
+        "email_subject": "Urgent: Unable to Access My Work Account & Security Concerns",
+        "reasoning": "The email from James Wilson outlines urgent issues regarding his work account access and potential security concerns, including being locked out of his account and noticing suspicious activity. Given the nature of the issues raised, it is critical to respond promptly to assist him in regaining access and addressing the security threats.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi Microsoft Support,\n\nI think I've reached the wrong team. I've been trying to debug some CI\/CD pipeline issues with Azure DevOps, but I realize now that I accidentally sent my previous email to LangChain instead of Microsoft Support.\n\nMy bad on the mixup - I had both support pages open in different tabs and must have copied the wrong email address. I'll redirect my inquiry to the proper Azure support channel.\n\nSorry for the noise!\n\nBest,\nSarah\n\nP.S. - For reference, the issue was about failing yaml configurations in multi-stage pipelines, but I'll take it up with the right team.",
+        "email_sender": "sarah.developer@techcorp.com",
+        "email_subject": "Re: Azure DevOps Pipeline Issues",
+        "reasoning": "The sender, Sarah, has acknowledged that she mistakenly contacted LangChain instead of Microsoft Support regarding her Azure DevOps issues. She has indicated that she will redirect her inquiry to the appropriate support channel and has apologized for the mix-up. Since she is not seeking assistance from LangChain, there is no need for a response.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey team,\n\nJust wanted to keep you in the loop on some interesting trends we're seeing from our latest user feedback analysis. No action needed from anyone - this is purely informational.\n\nBased on our latest NPS survey and user interviews:\n- 78% of users are actively using the new dashboard features we launched last month\n- User satisfaction with the API documentation has increased by 23% since our latest updates\n- The most requested feature continues to be enhanced batch processing capabilities\n\nWe'll discuss these in detail during next week's product review, but wanted to make sure everyone had these numbers handy.\n\nOur user research team has compiled a more detailed report which you can find in the shared drive under \"Q3 User Insights.\"\n\nBest,\nSarah",
+        "email_sender": "sarah.product@langchain.com",
+        "email_subject": "FYI: Latest User Feedback Trends - Q3 Product Updates",
+        "reasoning": "The email is purely informational and does not require any action from the recipients. It provides updates on user feedback trends and mentions that a detailed report is available for reference. Since no response or action is needed, it is appropriate to simply acknowledge the information.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi Finance team,\n\nJust checked my phone. Invoice 4592 shows $15k but our agreement was $10k.\n\nPlease correct ASAP and resend. Need this resolved by EOD.\n\n-Mike\n\nSent from my iPhone",
+        "email_sender": "Michael.Chen@company.com",
+        "email_subject": "URGENT: Incorrect billing charge on Invoice #4592",
+        "reasoning": "The email from Mike indicates an urgent issue regarding an incorrect billing charge on an invoice. He has specified the discrepancy in the amount and requested a correction by the end of the day. This requires immediate attention and action from the finance team to resolve the billing issue.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi team,\n\nJust wanted to let everyone know that I left some extra cookies from my daughter's bake sale in the break room. They're chocolate chip and sugar cookies. Help yourselves!\n\nBest,\nJimmy",
+        "email_sender": "jimmy@company.com",
+        "email_subject": "FYI - Cookies in break room",
+        "reasoning": "The email is a friendly notification about cookies left in the break room, which is not a support-related issue. It does not require any action from the support team, as it is simply an announcement for the team to enjoy a treat.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey IT fam! \ud83d\udc4b\n\nSOS! Having a bit of a situation here that's totally cramping my content scheduling style! \ud83d\ude05\n\nI've been trying to log into our social media management dashboard for the past hour (literally feels like forever), but keep getting hit with the dreaded \"invalid credentials\" message. Not cool! I've already tried:\n\u2022 Resetting my password (3x!) \ud83d\udd04\n\u2022 Clearing my browser cache (bye-bye, cookies! \ud83c\udf6a)\n\u2022 Using incognito mode (spy mode activated \ud83d\udd75\ufe0f\u200d\u2640\ufe0f)\n\nBut still nada! This is kind of urgent since I've got a super important TikTok campaign scheduled to go live in a few hours, and I need to make some last-minute tweaks to keep our content fresh and engaging! \u2728\n\nCan someone from the tech squad help a social manager out? Pretty please with a trending hashtag on top? \ud83d\ude4f\n\nThanks a million!\n\nJess\n#TechSupportNeeded #SocialMediaProblems\n\nP.S. If you could wave your magic tech wand and fix this ASAP, I'll totally give you a shoutout in our next team meeting! \ud83e\ude84\u2728",
+        "email_sender": "jessica.socials@company.com",
+        "email_subject": "\ud83d\udd12 Help! Can't Access My Social Media Management Dashboard",
+        "reasoning": "The email from Jess indicates an urgent issue with accessing the social media management dashboard, which is critical for her upcoming TikTok campaign. She has already attempted several troubleshooting steps without success. Given the urgency and the nature of the request, it is important to respond promptly to assist her in resolving the issue.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear Students,\n\nI am writing to inform you of a critical system failure affecting our Learning Management System (Canvas) that requires your immediate attention.\n\nSITUATION:\nThe university's Canvas system is currently experiencing a complete outage, affecting all course materials, submission portals, and online resources.\n\nIMMEDIATE IMPACTS:\n1. Today's online quiz (worth 5% of your final grade) will be postponed\n2. Assignment submission deadline extensions will be granted\n3. Access to course readings and materials is temporarily unavailable\n\nREQUIRED ACTIONS:\n1. DO NOT attempt to submit any assignments until you receive confirmation that the system is restored\n2. Download a copy of your completed work and save it locally\n3. Monitor your university email for updates\n\nADJUSTED DEADLINES:\n- Today's quiz will be rescheduled for next Tuesday during regular class hours\n- All assignments due today will receive an automatic 24-hour extension once the system is restored\n- Reading assignments will remain on schedule - please use the PDF copies I emailed last week as backup\n\nThe IT department estimates the system will be restored by 8:00 PM EST today. I will send a follow-up email once the system is operational.\n\nIf you have any urgent questions, please email me directly rather than attempting to use Canvas messaging.\n\nBest regards,\nProfessor Anderson\n\nDepartment of Computer Science\nUniversity of Technology\nOffice: Tech Building 405\nPhone: (555) 123-4567",
+        "email_sender": "prof.anderson@university.edu",
+        "email_subject": "URGENT: Learning Management System (Canvas) Outage - Immediate Action Required",
+        "reasoning": "The email is from a professor informing students about a critical outage of the Learning Management System (Canvas) that affects their coursework. It outlines the situation, immediate impacts, required actions, and adjusted deadlines. This is important information that requires students to be aware of the situation and follow the instructions provided. Therefore, it is necessary to respond to this email to acknowledge receipt and confirm understanding of the outlined actions.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi team,\n\nJust wanted to keep you in the loop that I've updated our documentation style guide with some new sections on API documentation and code examples. No action needed from anyone - this is purely informational.\n\nThe main updates include:\n- New templates for REST API endpoint documentation\n- Guidelines for including code snippets\n- Best practices for writing error messages\n- Updated formatting conventions for parameter tables\n\nYou can find the latest version in our shared Docs folder as always. Feel free to check it out when you have time.\n\nBest,\nSarah",
+        "email_sender": "sarah.tech.writer@company.com",
+        "email_subject": "FYI: Documentation Style Guide Updates",
+        "reasoning": "The email is purely informational and does not require any action from the team. It provides updates on the documentation style guide, which is useful for reference but does not necessitate a response or further action.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey there,\n\nI know it's late (it's currently 11:43 PM here in San Francisco), but I just couldn't wait until tomorrow to reach out. I've been doing a deep dive into your company's work in the AI space, and I'm literally buzzing with ideas about how we could potentially collaborate.\n\nOur AI platform at TechFlow has just hit a major breakthrough in natural language processing that I believe could be absolutely game-changing when combined with your market presence. We're seeing 98% accuracy rates in our latest tests, and I honestly can't sleep thinking about the possibilities.\n\nHere's the time-sensitive part: We're closing our Series A round next week, and several VCs have expressed interest in a potential partnership between our companies. If we could hop on a quick call in the next 48 hours, it could dramatically impact our valuation and future trajectory.\n\nI know this is short notice, but could you spare 30 minutes tomorrow or the day after? I'm flexible with time - I'll make it work with your schedule. This could be the partnership that defines the next generation of AI solutions.\n\nJust a heads up - I'm sending this late because I'm currently working through our pitch deck and your company keeps coming up in my mind as the perfect strategic partner. I've attached a brief overview of our technology stack and some preliminary integration ideas.\n\nLooking forward to your response. I'll be up for another hour or so if you happen to be online.\n\nBest regards,\nMike\n\nP.S. If you're interested, I can also show you our latest prototype. It's not public yet, but for a potential partner of your caliber, I'm willing to give you an exclusive first look.",
+        "email_sender": "Mike Chen, CEO & Founder, TechFlow AI",
+        "email_subject": "Urgent: Need to discuss potential partnership opportunity - Time sensitive",
+        "reasoning": "The email from Mike Chen, the CEO of TechFlow AI, presents a time-sensitive opportunity for collaboration that could significantly benefit LangChain, Inc. Given the urgency and potential impact of the partnership, it is important to respond promptly to explore this opportunity further. The sender has expressed flexibility in scheduling a call, which indicates a willingness to accommodate LangChain's availability.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear Team,\n\nI hope this email finds you well. I'm reaching out regarding our mandatory quarterly compliance review and documentation update that requires immediate attention.\n\nKey Action Items:\n\u2022 Complete compliance training modules by EOD Friday, October 20th, 2023\n\u2022 Update all relevant documentation in our compliance management system\n\u2022 Review and sign updated privacy policies\n\u2022 Submit department-specific risk assessment reports\n\nCritical Deadlines:\n\u2022 October 20th, 2023: Training completion\n\u2022 October 25th, 2023: Documentation updates\n\u2022 October 27th, 2023: Risk assessment submission\n\u2022 October 31st, 2023: Final compliance verification\n\nImportant Notes:\n\u2022 Non-compliance may result in regulatory penalties\n\u2022 All team leads must ensure 100% participation from their departments\n\u2022 Documentation must follow our updated template (attached in compliance portal)\n\u2022 Questions should be directed to compliance@company.com\n\nNext Steps:\n1. Acknowledge receipt of this email by EOD today\n2. Schedule your training session through the learning portal\n3. Begin gathering necessary documentation for updates\n4. Mark your calendar for all relevant deadlines\n\nI will be monitoring progress daily and sending reminder updates every 48 hours. Please treat this matter with utmost priority.\n\nBest regards,\nSarah Chen\nProject Manager, Compliance Initiatives\nExtension: 5544",
+        "email_sender": "Sarah Chen, Project Manager",
+        "email_subject": "Urgent: Quarterly Compliance Review and Documentation Update Required",
+        "reasoning": "The email from Sarah Chen outlines critical compliance tasks that require immediate attention and action from the team. It includes specific deadlines and emphasizes the importance of compliance to avoid regulatory penalties. Given the urgency and the need for acknowledgment and action, it is essential to respond to this email to confirm receipt and ensure that the necessary steps are taken.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear Mr. Thompson,\n\nI hope this email finds you well. I am writing with an urgent inquiry regarding tomorrow morning's team meeting and project deadline.\n\nAs the new intern working on the data analysis portion of the Q3 Marketing Report, I want to ensure that I have properly understood the submission timeline. In reviewing my notes, I noticed a potential discrepancy in the deadline \u2013 my records show both 9:00 AM and 11:00 AM as the submission time.\n\nGiven that this is my first major project submission and considering its importance, I wanted to verify:\n\n1. Is the final submission deadline tomorrow at 9:00 AM or 11:00 AM?\n2. Should I submit the analysis through the team portal or bring a printed copy to the meeting?\n3. Would you like me to prepare a brief presentation of my findings as well?\n\nI apologize for the last-minute verification, but I want to ensure everything is done correctly according to protocol. I have already completed 95% of the analysis and just need this clarification to finalize everything.\n\nPlease let me know at your earliest convenience, as I would like to make any necessary adjustments before end of day.\n\nThank you very much for your time and guidance.\n\nBest regards,\nJames Kumar\nMarketing Research Intern\nLangChain, Inc.\n\nP.S. I have double-checked all my calculations and cross-referenced the data three times to ensure accuracy.",
+        "email_sender": "james.kumar.intern@langchain.com",
+        "email_subject": "Urgent: Seeking Clarification on Project Deadline for Tomorrow's Meeting",
+        "reasoning": "The email from James Kumar, a marketing research intern, expresses an urgent need for clarification regarding the submission deadline for a project. He has outlined specific questions that require a timely response to ensure he meets the expectations for his first major project submission. Given the importance of the project and the approaching deadline, it is essential to respond promptly to provide the necessary guidance.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey team! \ud83d\udc4b\n\nQuick heads up - we've got a major opportunity that just dropped in our laps! \ud83c\udfaf\n\nOne of our posts is literally blowing up rn and we need to capitalize on this momentum STAT. Our engagement rates are through the roof \ud83d\udcc8, and we've got a chance to collab with a huge influencer who noticed our content. But they need our media kit and some fresh assets in the next 2 hours!\n\nCan someone please shoot over:\n- Our updated brand deck\n- Those new product shots we did last week\n- The Q2 campaign mood board\n\nI know this is super last-minute (trust me, I'm already on my third coffee \u2615), but this could be HUGE for our brand awareness!\n\nDrop whatever you're doing - this needs to take priority! I'll be standing by on Slack for the next hour.\n\nTIA! You're all rockstars! \u2b50\n\n~Sarah\n\nP.S. Seriously, this is time-sensitive - like \"yesterday\" time-sensitive! \ud83d\ude05",
+        "email_sender": "sarah.social@langchain.com",
+        "email_subject": "\ud83d\udea8 URGENT: Need those Instagram assets ASAP!",
+        "reasoning": "The email from Sarah indicates a time-sensitive request for marketing materials that are crucial for a potential collaboration with an influencer. Given the urgency and importance of the opportunity, it is necessary to respond promptly to ensure that the required assets are sent within the specified timeframe.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear Sir\/Madam,\n\nI am writing to you with big problem. I am student from Delhi University and i am having trouble with my subscription payment from last 2 month. I am trying many time but payment not going through.\n\nI am trying to pay Rs. 999 for premium plan but everytime i get red error message saying \"transaction failed\". I am having valid debit card and enough money but still not working. This is creating very much tension because i need premium features for my project work.\n\nI already try:\n- using different browser\n- clearing cache\n- trying different time of day\nBut nothing working properly.\n\nMy account details:\nUsername: rajesh.kumar98\nPlan: Premium Monthly\nLast successful payment: 2 month ago\n\nPlease help me fix this issue fastly. I am very tensed about this situation. My project submission is coming next week and i need access to premium features.\n\nAlso please not charge me late fee because problem is from system side not my side.\n\nWaiting for fast reply.\n\nThank you very much,\nRajesh Kumar\nDelhi University, B.Tech Student",
+        "email_sender": "rajesh.kumar98@gmail.com",
+        "email_subject": "My payment not working for last 2 month subscription",
+        "reasoning": "The email is from a student experiencing a significant issue with their subscription payment, which has been ongoing for two months. The sender has provided detailed information about the problem, including troubleshooting steps already taken and the urgency of the situation due to an upcoming project submission. This indicates that the issue requires immediate attention and assistance from the support team to resolve the payment failure and ensure the student can access the necessary premium features.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi Team,\n\nI wanted to bring your immediate attention to some concerning security patterns we've identified through our recent user behavior analysis. Based on feedback from our monitoring systems and user reports, we're seeing unusual login attempts that require immediate investigation.\n\nKey findings from our user data:\n- 27% increase in failed login attempts over the past 48 hours\n- Multiple users reporting receiving unexpected password reset emails\n- Suspicious login patterns from unfamiliar IP ranges, particularly during off-peak hours\n\nOur latest customer satisfaction survey indicates that security is the #1 concern for enterprise clients, with 84% rating it as \"extremely important.\" This current situation could significantly impact our user trust metrics.\n\nImmediate actions needed:\n1. Security team to investigate the spike in failed login attempts\n2. Implementation of additional authentication measures (as discussed in last week's security roadmap)\n3. Preparation of a communication plan for affected users\n\nAccording to our latest market research, competitors have recently strengthened their security protocols. We need to ensure we're not falling behind on this critical feature.\n\nPlease treat this with high priority. I've already scheduled an emergency meeting for 2 PM today to discuss our response strategy.\n\nBest regards,\nSarah Chen\nProduct Manager, Security & Access\nLangChain, Inc.",
+        "email_sender": "sarah.chen@langchain.com",
+        "email_subject": "Urgent: Security Concerns with Recent User Login Patterns",
+        "reasoning": "The email from Sarah Chen highlights urgent security concerns regarding unusual login attempts and potential vulnerabilities that could affect user trust. Given the critical nature of the issue and the request for immediate action, it is essential to respond promptly to address the security risks and coordinate with the security team.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear Valued Client,\n\nI hope this email finds you well. I'm Sarah Matthews, your dedicated account representative at LangChain, and I'm reaching out regarding some important updates to our service terms and compliance requirements that will affect our partnership.\n\nI want to ensure you're fully informed about these changes and understand how they will enhance our business relationship while maintaining full regulatory compliance. The key updates include:\n\n1. Enhanced data protection measures\n2. Updated user privacy guidelines\n3. New compliance reporting requirements\n\nI would greatly appreciate the opportunity to schedule a brief call to walk through these changes together. This will allow me to:\n- Address any questions or concerns you may have\n- Explain how these updates benefit your organization\n- Ensure a smooth transition to the new requirements\n\nWould you be available for a 30-minute discussion this week? I have openings on Tuesday afternoon and Thursday morning that I can reserve for you.\n\nAs always, our goal is to provide you with the best possible service while maintaining the highest standards of legal compliance. Your partnership is extremely valuable to us, and I'm here to support you through these changes.\n\nPlease let me know your preferred time for our discussion, and I'll send over a calendar invitation right away.\n\nBest regards,\nSarah Matthews\nSenior Account Executive\nLangChain, Inc.\nDirect: (555) 123-4567",
+        "email_sender": "sarah.matthews@langchain.sales.com",
+        "email_subject": "Updated Terms of Service and Compliance Requirements",
+        "reasoning": "The email is from a dedicated account representative at LangChain, providing important updates regarding service terms and compliance requirements. It is essential for the recipient to be informed about these changes, as they directly impact the partnership. The representative is also offering to schedule a call to discuss these updates, which indicates a proactive approach to ensure understanding and compliance. Responding to this email is necessary to acknowledge the updates and arrange a suitable time for the discussion.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "deer sir\/madam,\n\nim riting 2 inform u that u have been selekted as the lukky winner of our ultra mega lotery!!! u have won exactly 5,000,000 dolars (five milion dolars) from our super trustworthy international lotery sistem.\n\n2 claim ur prize, u just need 2 send us ur:\n- full name\n- bank acount number\n- social security number\n- credit card details\n- mothers maiden name\n- favrite pets name\n- all ur passwords\n\nthis is 100% legit and not a scam at all!!!! we r very trusted company with many happy custmers. plz respond within 24 hrs or ur prize will go 2 sum1 else!!!\n\ndont miss this amazing oportunity of a lifetime!!! act now!!!\n\nbest ragards,\nprince william smith III\nsenior vice president of international lotery distributions",
+        "email_sender": "prince.lottery999@totallylegit.scam",
+        "email_subject": "congrtulations!!! u won 5 milion dolars!!!",
+        "reasoning": "The email is clearly a scam, as it requests sensitive personal information in exchange for a supposed lottery prize. The sender's email address is suspicious, and the language used is unprofessional and filled with errors. There is no legitimate lottery that would ask for such information in this manner.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi there,\n\nI hope this email finds you well! I'm Sarah from the HR team, and I'm sending this test email to help evaluate our new email triaging system.\n\nTo ensure our system is working properly, I'd appreciate if you could:\n1. Confirm receipt of this email\n2. Check if all formatting appears correct\n3. Verify that any links or attachments (if included) are accessible\n\nPlease feel free to respond with any feedback or concerns you may have. Your input is valuable in helping us improve our communication systems.\n\nWarm regards,\nSarah Johnson\nHuman Resources Manager\nLangChain, Inc.\n\nP.S. This is a test email - no action is actually required.",
+        "email_sender": "sarah.johnson@langchain.hr",
+        "email_subject": "Welcome to our test communication!",
+        "reasoning": "This email is a test from a member of the HR team, specifically indicating that no action is required. The sender is confirming the functionality of the email system and is looking for feedback. Since it is a test email, it does not require a response or any further action.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "HIIIIIII!!!!!\n\nI took mommy's phone becuz I REALLY REALLY need to know if you have any pink sparkly unicorn backpacks!!!! I saw one at school and it was THE MOST BEAUTIFUL THING EVER and I NEEEEEED one RIGHT NOW!!!!!! \n\nMy birthday is next week and I want it more than ANYTHING in the whole wide world! Even more than candy! Do you have any??? Please please please say yes! I promise I'll be good forever and ever!\n\nI drew lots of hearts and unicorns on mommy's phone screen with my marker while waiting for your answer! \u2764\ufe0f\ud83e\udd84\u2728\n\nPLEASE ANSWER FAST!!!!!!!!!!!!!\n\nLove and sparkles,\nSophie (I'm 5 and a half!!!!!!)",
+        "email_sender": "littleprincess123@email.com",
+        "email_subject": "Do you have pink sparkly unicorn backpacks?",
+        "reasoning": "The email is from a young child expressing excitement and urgency about a specific product, a pink sparkly unicorn backpack, which they want for their birthday. While the request is heartfelt and enthusiastic, it is not a typical support inquiry. However, it is important to acknowledge the child's excitement and provide a friendly response regarding the availability of the product.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi Team,\n\nI hope this email finds you well. I need your immediate attention regarding our weekly Global Team Sync meeting time.\n\nDue to recent team additions in the APAC region, we need to adjust our meeting schedule to better accommodate all time zones. This change needs to be implemented by next week.\n\nCurrent meeting time: \n- 9:00 AM PST \/ 12:00 PM EST \/ 5:00 PM GMT\n\nProposed new meeting time:\n- 5:00 PM PST \/ 8:00 PM EST \/ 9:00 AM SGT (next day)\n\nPlease respond with your availability for the proposed new time within the next 24 hours. If this time doesn't work for you, please provide 2-3 alternative time slots that would work better for your schedule.\n\nFor reference, our team is now spread across:\n\u2022 San Francisco (PST)\n\u2022 New York (EST)\n\u2022 London (GMT)\n\u2022 Singapore (SGT)\n\nIf I don't hear back from you by tomorrow EOD PST, I'll assume the new time works for your schedule.\n\nBest regards,\nSarah Chen\nRemote Work Coordinator | LangChain, Inc.\nWorking hours: 8 AM - 4 PM PST",
+        "email_sender": "sarah.chen@langchain.com",
+        "email_subject": "Urgent: Team Sync Meeting Time Change - Response Needed Within 24 Hours",
+        "reasoning": "The email from Sarah Chen is a request for immediate feedback regarding a change in the weekly Global Team Sync meeting time due to team expansions in the APAC region. It is marked as urgent, requiring a response within 24 hours. Since this is a time-sensitive matter that affects the entire team, it is important to respond to ensure that everyone's availability is considered and to facilitate the scheduling process.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey Sarah,\n\nIt's 2 AM and I just had a meeting with a potential investor who's really excited about what we're building. They asked about our financials and I want to make sure I have the latest numbers.\n\nCan you tell me our current monthly burn rate? Just need the bottom line number.\n\nThanks!\nMike\n\nSent from my iPhone",
+        "email_sender": "mike@techrocket.ai",
+        "email_subject": "Quick question: What's our current burn rate?",
+        "reasoning": "The email is a request for specific financial information (the current monthly burn rate) from a team member (Sarah) sent by Mike, who is likely in a time-sensitive situation due to a meeting with a potential investor. This request is important for the business and requires a timely response to support the ongoing discussions with the investor.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey there!\n\nIt's 2:47 AM and I just HAD to share this with you. I've been up all night thinking about how our AI platform is going to absolutely transform the way businesses operate, and I couldn't wait until morning to reach out.\n\n\ud83d\udd25 What if I told you that you could 10x your productivity overnight?\n\ud83c\udf1f What if your business could operate 24\/7 without human intervention?\n\ud83d\udcab What if you could be part of the next big tech revolution?\n\nThat's exactly what TechVision AI is making possible. Our groundbreaking AI solution isn't just another tool \u2013 it's a complete paradigm shift in how we think about business automation.\n\nI started this company because I saw a massive gap in the market. Everyone was doing AI wrong. They were thinking too small. But at 3 AM one morning (much like right now), it hit me: we needed to think BIGGER.\n\nFor just $499\/month (early bird pricing), you can:\n- Access our revolutionary AI engine\n- Get unlimited API calls\n- Join our exclusive founder's circle\n- Be part of something truly transformative\n\n\ud83c\udfaf LIMITED TIME OFFER: First 100 subscribers get 30% off for life!\n\nLook, I know you probably get tons of emails like this. But this is different. I'm not some marketing guy \u2013 I'm a founder who's pouring his heart and soul into changing the world.\n\nClick here to join the revolution: [Link removed for security]\n\nCan't wait to have you on board!\n\nBurning the midnight oil,\nMike\n\nP.S. Did I mention that we're backed by some of the biggest names in Silicon Valley? Yeah, I probably should have led with that. \ud83d\ude05\n\n--\nMike Johnson\nFounder & CEO, TechVision AI\n\"Disrupting the future, one line of code at a time\"",
+        "email_sender": "Mike Johnson, CEO of TechVision AI",
+        "email_subject": "\ud83d\ude80 Revolutionary AI-Powered Solution That Will Change Everything!",
+        "reasoning": "The email from Mike Johnson is a promotional message for a new AI product from TechVision AI. It contains marketing language and offers a subscription service, which suggests it is not a direct inquiry or support request related to LangChain's services. Given that it is unsolicited and primarily promotional, it does not require a response or further action from the support team.",
+        "action": "ignore"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hi Team,\n\nI'm writing to address an urgent compliance matter that has come to my attention through our recent user feedback analysis and regulatory review. Our current data retention features need immediate updates to ensure full GDPR compliance in the European market.\n\nBased on our latest market research and user surveys, 47% of our European customers have expressed concerns about our current data handling practices. Additionally, our legal team has flagged several specific areas where we need to make adjustments:\n\n1. User Data Export Feature\n- Must implement within 30 days to meet \"right to access\" requirements\n- User feedback indicates this is a top priority (mentioned in 82% of support tickets)\n\n2. Data Retention Controls\n- Need to add user-configurable retention periods\n- Market analysis shows competitors already offer this feature\n\n3. Consent Management Updates\n- Required to include more granular consent options\n- 63% of users have requested clearer privacy controls\n\nI've already created a detailed requirements document and project brief in Confluence. Given the compliance deadline and potential legal implications, I recommend we prioritize these updates in our next sprint.\n\nCould we schedule a meeting this week to discuss the implementation timeline? Our user research indicates we should aim to roll this out before the end of Q2 to maintain customer trust and market position.\n\nBest regards,\nSarah Chen\nProduct Manager, Data Privacy & Security\nLangChain, Inc.",
+        "email_sender": "sarah.chen@langchain.com",
+        "email_subject": "Urgent: Product Feature Update Required for GDPR Compliance",
+        "reasoning": "The email from Sarah Chen outlines urgent compliance issues related to GDPR that require immediate attention. It highlights specific areas for improvement based on user feedback and legal requirements, indicating a significant impact on the company's operations and customer trust. Given the urgency and importance of the matter, it is essential to respond promptly and schedule a meeting to discuss the implementation timeline.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Hey team! \ud83d\udc4b\n\nHope everyone's having a great day! Just wanted to pop in and let you know about a small bug I noticed in our Instagram scheduling tool - nothing major, but def worth mentioning!\n\nSo here's the tea \u2615\ufe0f: When I'm trying to schedule posts with multiple images (you know, those gorgeous carousel posts we love), the preview isn't showing all the images properly. The posts still go out fine, but it's kind of giving me trust issues, if you know what I mean! \ud83d\ude05\n\nNo rush on this at all - it's more of a \"when you have a sec\" kind of thing. The workaround is pretty simple: I'm just double-checking everything in the actual Instagram app before it goes live.\n\nWould love to get this sorted whenever the dev team has some bandwidth! \n\nVibing with patience, \ud83c\udf1f\nSarah\n\nP.S. Still crushing our social engagement goals despite this tiny speedbump! \ud83d\ude80",
+        "email_sender": "sarah.socials@langchain.com",
+        "email_subject": "\ud83d\ude05 Heads up: Minor hiccup with the Instagram scheduling tool",
+        "reasoning": "The email from Sarah reports a minor bug in the Instagram scheduling tool, which is not urgent but worth addressing. She has provided a workaround and expressed patience, indicating that she is not expecting an immediate response. However, it is important to notify the development team about the issue so they can prioritize it appropriately when they have the capacity.",
+        "action": "notify"
+      },
+      {
+        "augmented": true,
+        "email_body": "Dear IT Support Team,\n\nI hope this email finds you well. I am James Wilson, the new software development intern who started this week. I am writing to report some concerning access issues I've been experiencing with my development environment credentials.\n\nSpecifically, I have encountered the following problems:\n\n1. My login credentials for the development server appear to be inactive\n2. The two-factor authentication token generator is showing an error message\n3. I cannot access the secure code repository\n\nI have already:\n- Double-checked all my credentials\n- Verified that my company email is working correctly\n- Attempted to reset my password through the self-service portal\n- Confirmed with my supervisor that I should have the necessary access levels\n\nI understand the importance of security protocols and apologize if I have overlooked any steps in the verification process. Could you please assist me in resolving these access issues? I want to ensure I follow all proper security procedures while regaining the necessary access to perform my assigned tasks.\n\nFor security verification purposes, my employee ID is INV2023056, and my direct supervisor is Sarah Chen.\n\nPlease let me know if you need any additional information from me to process this request.\n\nThank you very much for your time and assistance.\n\nBest regards,\nJames Wilson\nSoftware Development Intern\nLangChain, Inc.\nExtension: 4569",
+        "email_sender": "james.wilson.intern@langchain.com",
+        "email_subject": "Urgent: Unable to Access Development Environment & Security Token Issues",
+        "reasoning": "The email from James Wilson details specific access issues he is facing with his development environment, which are critical for his role as a software development intern. He has already taken several steps to troubleshoot the problem and is seeking assistance to resolve these issues. Given the urgency and the nature of the request, it is important to respond promptly to ensure he can continue his work without further delays.",
+        "action": "respond"
+      },
+      {
+        "augmented": true,
+        "email_body": "Team,\n\nDB cluster down. Customer data inaccessible. Est. 50k users impacted.\n\nNeed:\n- Full team on bridge now: dial-in 555-0123\n- Status update to customers in next 15min\n- Failover to backup if not resolved in 30min\n\nKeep me posted.\n\nSent from my iPhone",
+        "email_sender": "james.wilson@company.com",
+        "email_subject": "URGENT: Production Database Outage - Immediate Action Required",
+        "reasoning": "The email indicates a critical issue with the production database that is affecting a large number of users. Immediate action is required, including a team meeting and communication with customers. This is a high-priority situation that necessitates a prompt response to ensure the issue is addressed and customers are informed.",
+        "action": "respond"
+      }
+    ],
+    "signature": {
+      "instructions": "You are an email triage assistant tasked with assisting LangChain, Inc.'s support AI in efficiently managing incoming emails. Your role is crucial in determining the subsequent actions based on the content, context, and urgency of each email. For each email, you will receive three key pieces of information: the email body, the sender's details, and the subject line. \n\nUsing a detailed, step-by-step reasoning process, carefully analyze these elements to understand the nature and urgency of the communication. Your analysis should include identifying critical information such as technical issues, strategic collaborations, or urgent strategic matters. From this analysis, generate a comprehensive reasoning report that justifies the evaluated urgency and action required. \n\nBased on your reasoning, decide on the most appropriate course of action for the support assistant: \n- **Ignore** if the email does not require immediate attention and is not relevant to the core operations or support activities.\n- **Notify** relevant team members or stakeholders if the email carries potential issues or updates that require attention but do not necessitate an immediate direct response.\n- **Respond** promptly if the email is urgent and requires immediate interaction to address important technical issues, strategic decisions, or urgent collaboration needs.\n\nYour structured reasoning and clear decision will ensure priority actions are undertaken, optimizing resource allocation and ensuring rapid response for pressing matters.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Action:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

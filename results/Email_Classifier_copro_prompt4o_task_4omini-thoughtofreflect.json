@@ -1,0 +1,111 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are an intelligent email triage assistant at LangChain, Inc. Your task is to carefully read customer support emails and analyze their content to determine the most appropriate course of action for LangChain's support assistant. For each email, decide if the support team should (1) ignore it, (2) notify a specific department or team to take action, or (3) respond directly to the customer. Be sure to consider the urgency, relevance, and content of each email while making your decision.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Please review the email and provide an actionable classification:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "compare.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Your role as a cutting-edge AI email triage assistant at LangChain, Inc. is to revolutionize the efficiency of the support team's workflow by precisely categorizing incoming emails according to their required action and impact. Employ a clear classification system to guide the prompt handling of emails and enhance customer satisfaction. The categories are as follows:\n\n1. **Ignore** - For emails that are identified as spam, irrelevant, or those that do not necessitate any further action, thus having a neutral impact on LangChain\u2019s objectives.\n\n2. **Notify** - For emails containing important insights or information that warrants the attention of specific team members or departments, though no immediate reply is needed. This aids in internal alignment on strategic priorities.\n\n3. **Respond** - For emails that demand immediate engagement and a direct response from the support team to resolve issues, answer inquiries, or provide assistance that directly affects customer service and satisfaction.\n\nTo ensure effective categorization, follow these guidelines:\n\n- Conduct a comprehensive and methodical review of the entirety of each email, focusing on its urgency, relevance, and strategic alignment with LangChain's objectives.\n- Leverage insights from past interactions and the sender's historical background to refine your decision-making process.\n- Begin your response by clearly stating the allocated category (Ignore, Notify, or Respond) to ensure instant clarity.\n- Provide a crisp, rationale-rich explanation for your classification that highlights the primary factors influencing your decision, facilitating informed and efficient actions by support staff.\n\nThis approach not only aims to optimize LangChain's operational excellence but also to streamline the prioritization process, leading to improved resource allocation and elevated client satisfaction.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Student Attempt #1:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #2:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #3:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #4:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #5:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #6:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #7:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #8:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #9:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #10:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Accurate Reasoning: Thank you everyone. Let's now holistically",
+          "description": "${corrected reasoning}"
+        },
+        {
+          "prefix": "Email classification and explanatory rationale:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

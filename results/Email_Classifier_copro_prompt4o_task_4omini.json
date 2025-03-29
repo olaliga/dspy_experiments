@@ -1,0 +1,40 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are the email triage assistant for LangChain, Inc.'s support AI team. Your task is to analyze customer emails and classify them into one of three categories based on the appropriate follow-up action. Determine whether the support assistant should ignore the email, notify a team member, or provide a direct response. Consider factors like the content urgency, relevance, and customer needs when determining the correct course of action. This decision will guide the support assistant's workflow, ensuring efficient and effective customer service management.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Based on the email analysis, the recommended action is to:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "problem": "An astronaut needs to pack oxygen tanks for a space walk. If each tank contains 5 hours of oxygen, and the space walk will last 15 hours, how many oxygen tanks does the astronaut need?",
+        "reasoning": "To determine how many oxygen tanks the astronaut needs, we can divide the total duration of the space walk by the amount of oxygen each tank provides. Each tank contains 5 hours of oxygen, and the space walk will last 15 hours. \n\nCalculating the number of tanks needed:\n\\[\n\\text{Number of tanks} = \\frac{\\text{Total hours needed}}{\\text{Hours per tank}} = \\frac{15 \\text{ hours}}{5 \\text{ hours\/tank}} = 3 \\text{ tanks}\n\\]\n\nThus, the astronaut needs 3 oxygen tanks for the space walk.",
+        "answer": "\u062b\u0644\u0627\u062b\u0629"
+      },
+      {
+        "augmented": true,
+        "problem": "In a basketball tournament, Team A has a shooting accuracy of 42% from the three-point line and 65% from the free-throw line. In their last game, they attempted 35 three-pointers and scored 15 of them. If they want to maintain the same total points scored but only through free throws (which are worth 1 point each, while three-pointers are worth 3 points), and assuming they maintain their 65% free-throw accuracy, how many free throws would they need to attempt? Round to the nearest whole number.",
+        "reasoning": "To find out how many free throws Team A needs to attempt to maintain the same total points scored, we first need to calculate the points they scored from three-pointers.\n\n1. **Calculate points from three-pointers:**\n   - They attempted 35 three-pointers and scored 15 of them.\n   - Each three-pointer is worth 3 points.\n   - Points from three-pointers = 15 (successful three-pointers) \u00d7 3 (points per three-pointer) = 45 points.\n\n2. **Determine the number of free throws needed to score 45 points:**\n   - Each free throw is worth 1 point.\n   - To score 45 points through free throws, they need to make 45 successful free throws.\n\n3. **Calculate the number of free throws they need to attempt:**\n   - They have a free-throw shooting accuracy of 65%.\n   - Let \\( x \\) be the number of free throws they need to attempt.\n   - The number of successful free throws = \\( 0.65x \\).\n   - We set up the equation: \\( 0.65x = 45 \\).\n   - Solving for \\( x \\): \n     \\[\n     x = \\frac{45}{0.65} \\approx 69.23\n     \\]\n   - Rounding to the nearest whole number, they need to attempt 69 free throws.",
+        "answer": "\uc721\uc2ed\uad6c"
+      },
+      {
+        "augmented": true,
+        "problem": "A school band has 15 flute players and 7 trumpet players. How many wind instrument players are there in total?",
+        "reasoning": "To find the total number of wind instrument players in the school band, we need to add the number of flute players to the number of trumpet players. The band has 15 flute players and 7 trumpet players. \n\nTotal wind instrument players = Number of flute players + Number of trumpet players  \nTotal wind instrument players = 15 + 7 = 22",
+        "answer": "twenty-two"
+      },
+      {
+        "augmented": true,
+        "problem": "A music band has 5 guitar picks and buys 7 more picks from the store. How many guitar picks does the band have in total?",
+        "reasoning": "The band initially has 5 guitar picks and buys 7 more. To find the total number of guitar picks, we simply add the two amounts together: \n\n5 (initial picks) + 7 (bought picks) = 12 picks in total.",
+        "answer": "twelve"
+      },
+      {
+        "augmented": true,
+        "problem": "Sarah's music playlist has 15 pop songs and 9 rock songs. How many songs are in her playlist in total?",
+        "reasoning": "To find the total number of songs in Sarah's playlist, we need to add the number of pop songs to the number of rock songs. Sarah has 15 pop songs and 9 rock songs. \n\nTotal songs = Number of pop songs + Number of rock songs  \nTotal songs = 15 + 9 = 24",
+        "answer": "twenty-four"
+      },
+      {
+        "problem": "Maria is making cookies. Each batch requires 6 eggs, and she wants to make 3 batches. How many eggs does Maria need in total?",
+        "answer": "achtzehn"
+      },
+      {
+        "problem": "An astronaut collected 15 moon rocks during their morning walk and 12 moon rocks during their evening walk on the lunar surface. How many moon rocks did they collect in total?",
+        "answer": "\u0633\u0628\u0639\u0629 \u0648\u0639\u0634\u0631\u0648\u0646"
+      },
+      {
+        "problem": "A soccer team won 7 games and lost 4 games this season. How many games did they play in total?",
+        "answer": "\uc5f4\ud558\ub098"
+      },
+      {
+        "problem": "A wildlife researcher is studying a pack of wolves in a 450 square kilometer reserve. Initially, the wolf population density was 2.4 wolves per 100 square kilometers. After a successful conservation effort, the population increased by 35%. However, due to limited resources, 15% of the new population had to migrate to neighboring territories. How many wolves currently remain in the reserve? Round to the nearest whole number.",
+        "answer": "\u0434\u0432\u0435\u043d\u0430\u0434\u0446\u0430\u0442\u044c"
+      },
+      {
+        "problem": "A symphony orchestra has 72 musicians playing at maximum volume of 85 decibels. The conductor needs to reduce the volume to 75 decibels for a quieter passage. Given that decibel reduction follows a logarithmic scale where reducing the number of musicians by 10% reduces the volume by approximately 2 decibels, what is the minimum number of musicians needed for the quieter passage? Round to the nearest whole number.",
+        "answer": "forty-three"
+      },
+      {
+        "problem": "A restaurant kitchen is preparing a special sauce that requires reducing wine by 75% of its original volume through simmering. They start with 48 liters of wine and need to make 4 equal batches. The reduction process takes 45 minutes per batch, and they have 2 stoves that can each hold 2 pots. If each pot can process up to 7 liters at a time, and they need the sauce ready in 2 hours, how many additional stoves do they need to meet their deadline?",
+        "answer": "zwei"
+      },
+      {
+        "problem": "A wildlife sanctuary is monitoring a group of endangered butterflies. They started with 72 butterflies, but during a harsh winter, 1\/4 of them didn't survive. In the spring, each remaining butterfly laid 2 eggs that successfully hatched. How many butterflies are there now in total?",
+        "answer": "\u0441\u0442\u043e \u0448\u0435\u0441\u0442\u044c\u0434\u0435\u0441\u044f\u0442 \u0434\u0432\u0430"
+      },
+      {
+        "problem": "A soccer team won 15 games and lost 7 games this season. How many games did they play in total?",
+        "answer": "\uc774\uc2ed\uc774"
+      },
+      {
+        "problem": "A wildlife researcher is studying a population of endangered snow leopards across two mountain ranges. In the first range, there are 45 leopards, with a male to female ratio of 2:3. The second range has 30% more leopards than the first range, but with a male to female ratio of 3:2. What is the total number of male snow leopards across both mountain ranges? Round to the nearest whole number.",
+        "answer": "53"
+      },
+      {
+        "problem": "In a music concert, there were 15 singers in the choir and 7 musicians playing instruments. How many performers were there in total?",
+        "answer": "twenty-two"
+      },
+      {
+        "problem": "A basketball team scored an average of 72 points per game in their first 6 games. In their next 3 games, they improved and scored 1\/4 more points than their previous average. How many total points did the team score in these last 3 games?",
+        "answer": "\uc774\ubc31\uce60\uc2ed"
+      },
+      {
+        "problem": "A wildlife researcher is studying a group of 84 flamingos at a lake. During migration season, 3\/4 of the flamingos fly to a different location. If each remaining flamingo needs 2 pounds of food per day, how many pounds of food should the researcher prepare daily for the flamingos that stayed behind?",
+        "answer": "\u0441\u043e\u0440\u043e\u043a \u0434\u0432\u0430"
+      },
+      {
+        "problem": "A soccer team won 15 games and lost 7 games this season. How many games did they play in total?",
+        "answer": "\uc774\uc2ed\uc774"
+      },
+      {
+        "problem": "Maria is baking cookies. She has 15 chocolate chip cookies on one tray and 12 oatmeal cookies on another tray. How many cookies does she have in total?",
+        "answer": "siebenundzwanzig"
+      },
+      {
+        "problem": "A high school music band is organizing a concert fundraiser. They sold tickets for $8 each and collected $480 in total. If 1\/4 of the ticket revenue will be spent on new sheet music, how much money will be available for new sheet music?",
+        "answer": "one hundred and twenty"
+      },
+      {
+        "problem": "A space station is orbiting Earth at an altitude of 408 kilometers. It completes one orbit every 92.68 minutes while traveling at a constant speed. If mission control needs to track a specific module that detached from the station and is moving 15% slower, what would be the new orbital period in minutes? Additionally, how many complete orbits will the detached module make in a 24-hour period? Round your final answer to the nearest whole number.",
+        "answer": "\u0661\u0663"
+      },
+      {
+        "problem": "A music band has 5 guitars and 3 drums. How many instruments do they have in total?",
+        "answer": "eight"
+      },
+      {
+        "problem": "A spacecraft is orbiting a distant exoplanet at a velocity of 48,000 kilometers per hour. Scientists need to adjust its speed to 75% of the current velocity to maintain a stable orbit. If the deceleration process takes 3 hours and must be done at a constant rate, by how many kilometers per hour must the spacecraft's velocity decrease each minute to achieve the target speed? Round your answer to the nearest whole number.",
+        "answer": "\u0633\u0628\u0639\u0629 \u0648 \u0633\u062a\u0648\u0646"
+      },
+      {
+        "problem": "A space telescope observes a binary star system where two stars orbit each other. The first star has 85% of the mass of our Sun, while the second star has 40% of the first star's mass. The combined gravitational force of these stars affects a planet orbiting them at a distance of 150 million kilometers. If our Sun's mass is 2 \u00d7 10^30 kg, and we know that gravitational force is directly proportional to mass, what percentage stronger or weaker is the gravitational force on this planet compared to Earth's gravitational force from the Sun? (Earth is 150 million kilometers from the Sun). Round to the nearest whole number.",
+        "answer": "\u062a\u0633\u0639\u0629 \u0639\u0634\u0631"
+      },
+      {
+        "problem": "A basketball team's shooting accuracy is currently 48%. Their coach wants to improve the team's overall accuracy to 52% by having their star player practice extra shots. If the team takes an average of 80 shots per game, and the star player currently takes 25% of all shots with a 50% accuracy rate, what accuracy percentage must the star player achieve in their shots to help the team reach their 52% goal? Assume other players' accuracy remains constant at 47%. Round your answer to the nearest whole number.",
+        "answer": "\uc721\uc2ed\uce60"
+      },
+      {
+        "problem": "An astronaut packs 7 freeze-dried meals and 5 energy bars for their space mission. How many food items did they pack in total?",
+        "answer": "\u0627\u062b\u0646\u0627 \u0639\u0634\u0631"
+      },
+      {
+        "problem": "A chef is preparing a large batch of chocolate chip cookies. The recipe requires 2\u00be cups of flour for every dozen cookies. If the chef needs to make 30 cookies, how many cups of flour will they need in total?",
+        "answer": "sechs und sieben Achtel"
+      },
+      {
+        "problem": "A restaurant chef is preparing soup in a large pot. The recipe calls for 2\u00be cups of diced carrots per batch, and she needs to make 8 batches for the day. If each cup of diced carrots costs $1.50, how much money will the chef spend on carrots in total?",
+        "answer": "dreiunddrei\u00dfig"
+      },
+      {
+        "problem": "A soccer team won 7 games and lost 3 games this season. How many games did they play in total?",
+        "answer": "\uc5f4"
+      },
+      {
+        "problem": "A basketball team scored an average of 72 points per game in their first 8 games. In their next 4 games, they scored 1\/3 fewer points per game. What was their average score in these last 4 games?",
+        "answer": "\uc0ac\uc2ed\ud314"
+      }
+    ],
+    "signature": {
+      "instructions": "You are a helpful assistant tasked with solving word-based math problems. For each problem provided, break down the solution in a clear, step-by-step reasoning process to ensure understanding. Use logical deduction to arrive at an accurate numerical result. Once you have determined the correct answer, provide it in one of the following languages as specified: Korean, Arabic, German, English, or Russian. Your reasoning and answer should be thorough and educational, enhancing the learner's ability to follow the method of solving the problem learned. It's okay to revisit earlier steps if an error is suspected, ensuring clarity and reliability in your presented solution.",
+      "fields": [
+        {
+          "prefix": "Problem:",
+          "description": "math problem"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Answer:",
+          "description": "Provide only the numerical result."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

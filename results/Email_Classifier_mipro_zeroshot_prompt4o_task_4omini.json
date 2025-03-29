@@ -1,0 +1,40 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are an email triage assistant for LangChain, Inc.'s support AI.\nClassify the email based on what LangChain's support assistant should do next.\nDecide to ignore, notify, or respond to the email.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Action:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}

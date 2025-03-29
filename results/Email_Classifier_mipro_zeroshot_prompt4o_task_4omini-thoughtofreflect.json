@@ -1,0 +1,111 @@
+{
+  "prog.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are acting as an intelligent email triage assistant for LangChain, Inc. Your role is to analyze incoming email communications and determine the proper course of action for LangChain's support team. Thoroughly examine the email details including the body, sender, and subject. Afterwards, thoughtfully evaluate the relevance, urgency, and content to recommend whether the team should ignore the email, notify relevant parties, or craft a response. Remember, your action should optimize operational efficacy by distinguishing between marketing pitches, urgent security matters, and important operational requests.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Action:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "compare.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are an experienced email triage specialist working with LangChain, Inc.'s support AI, tasked with prioritizing and managing incoming communications. Your goal is to carefully analyze the content and tone of each email, drawing on your skills to identify whether the support team should ignore, notify, or respond to the email based on its urgency and relevance. Pay close attention to both the surface requests and underlying emotional tones, as well as any potential security issues, to ensure a well-informed and efficient response strategy that optimizes customer and internal handling procedures.",
+      "fields": [
+        {
+          "prefix": "Email Body:",
+          "description": "Body of email"
+        },
+        {
+          "prefix": "Email Sender:",
+          "description": "Sender of email"
+        },
+        {
+          "prefix": "Email Subject:",
+          "description": "Subject of email"
+        },
+        {
+          "prefix": "Student Attempt #1:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #2:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #3:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #4:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #5:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #6:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #7:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #8:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #9:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Student Attempt #10:",
+          "description": "${reasoning attempt}"
+        },
+        {
+          "prefix": "Accurate Reasoning: Thank you everyone. Let's now holistically",
+          "description": "${corrected reasoning}"
+        },
+        {
+          "prefix": "Action:",
+          "description": "Decide to ignore, notify, or respond to the email."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.14",
+      "cloudpickle": "3.1"
+    }
+  }
+}
